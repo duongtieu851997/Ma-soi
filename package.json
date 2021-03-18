@@ -1,0 +1,26 @@
+{
+  "name": "ma-soi",
+  "version": "1.0.0",
+  "description": "Game ma soi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongtieu851997/Ma-soi.git"
+  },
+  "keywords": [
+    "ma",
+    "soi"
+  ],
+  "author": "duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongtieu851997/Ma-soi/issues"
+  },
+  "homepage": "https://github.com/duongtieu851997/Ma-soi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
